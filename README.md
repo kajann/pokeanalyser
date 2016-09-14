@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pokeanalyzer
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 4.0.4.
@@ -26,3 +27,6 @@ Run `gulp build` for building and `gulp serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
+=======
+# pokeanalyser
+>>>>>>> 73e8fe48bcb8bc27c058b05d4368d510e7437ccc
